@@ -1,0 +1,10 @@
+# Global ignores for Slotbook
+node_modules/
+.env
+**/.env
+
+# Explicit workspace folders
+SlotBook-frontend/node_modules/
+SlotBook-frontend/.env
+SlotBook-Backend/node_modules/
+SlotBook-Backend/.env
